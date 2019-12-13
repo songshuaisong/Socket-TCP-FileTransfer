@@ -10,12 +10,15 @@ Important:
     At present, this test code is a schematic code, and there is no error code to improve the relevant situation.
 
 The initial state of the project is shown in the figure:
+
 ![image](https://github.com/songshuaisong/Socket-TCP-FileTransfer/blob/master/images/tree-1.png)
 
 If you want to build the project, you only need to use the command "make", shown in the figure:
+
 ![image](https://github.com/songshuaisong/Socket-TCP-FileTransfer/blob/master/images/make.png)
     
 After make, the client and server executable programs will be generated, is shown in the figure:
+
 ![image](https://github.com/songshuaisong/Socket-TCP-FileTransfer/blob/master/images/tree-2.png)
 
 # Server
@@ -25,6 +28,7 @@ After make, the client and server executable programs will be generated, is show
     -- ./server 127.0.0.1 9999 
     
 And then start the server, is shown in the figure:
+
 ![image](https://github.com/songshuaisong/Socket-TCP-FileTransfer/blob/master/images/server.png)
 
 # Client
@@ -34,4 +38,5 @@ And then start the server, is shown in the figure:
     -- ./client 127.0.0.1 9999 
     
 And then start the client, is shown in the figure:
+
 ![image](https://github.com/songshuaisong/Socket-TCP-FileTransfer/blob/master/images/client.png)
