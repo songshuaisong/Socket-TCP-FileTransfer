@@ -1,0 +1,11 @@
+language: c
+os: linux
+notifications:
+  email:
+    on_success: always
+    on_failure: always
+script:
+  - mkdir build && cd build
+  - cmake .. -DCMAKE_BUILD_TYPE=Release
+  - make 
+  - make install
