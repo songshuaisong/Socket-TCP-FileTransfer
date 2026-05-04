@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/github/songshuaisong/Socket-TCP-FileTransfer.svg?branch=master)](https://travis-ci.com/songshuaisong/Socket-TCP-FileTransfer)
-
+<br>
+[![Build Status](https://travis-ci.com/github/songshuaisong/Socket-TCP-FileTransfer.svg?branch=main)](https://travis-ci.com/github/songshuaisong/Socket-TCP-FileTransfer)
 # Socket-TCP-FileTransfer
 
 The program of uploading and downloading files based on socket TCP under Linux,adopts C-S mode.
