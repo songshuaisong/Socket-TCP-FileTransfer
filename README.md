@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/songshuaisong/Socket-TCP-FileTransfer.svg?branch=master)](https://travis-ci.com/songshuaisong/Socket-TCP-FileTransfer)
+[![Build Status](https://travis-ci.com/github/songshuaisong/Socket-TCP-FileTransfer.svg?branch=master)](https://travis-ci.com/songshuaisong/Socket-TCP-FileTransfer)
 
 # Socket-TCP-FileTransfer
 
